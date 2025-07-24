@@ -19,11 +19,7 @@ const Header = () => {
     >
       {/* Left Section */}
       <div className="flex lg:gap-14 gap-4">
-        <img
-          src="public\images\logo.png"
-          alt="logo-img"
-          className="md:w-16 w-12"
-        />
+        <img src="images/logo.png" alt="logo-img" className="md:w-16 w-12" />
 
         <div className="hidden md:flex gap-5 items-center">
           <button
